@@ -1,4 +1,4 @@
-# ElasticSfTSfT
+# ElasticSfT
 This is the implementation of the paper "Template-based Monocular 3D Recovery of Elastic Shapes using Lagrangian Multipliers".
 This method uses an FEM model and Lagrangian Multipliers to build a linear system which unifies mechanical and projective constraints to recover the 3D shape of an elastic object.
 
